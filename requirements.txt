@@ -1,0 +1,17 @@
+numpy
+pandas
+requests
+telegram
+python-telegram-bot==13.7
+matplotlib
+talib-binary
+tensorflow
+transformers
+torch
+torch-geometric
+networkx
+hmmlearn
+nltk
+SpeechRecognition
+tweepy
+websocket-client
